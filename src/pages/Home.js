@@ -1,7 +1,6 @@
 import "./estilos/Home.css"
 import Logo from "./assets/logo.png"
 import image_presentation from "./assets/image_presentation.png"
-console.log("hola mundo")
 const Home = () => {
     return(
         <div>
